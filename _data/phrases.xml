@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="custom_bb_code_desc.hide" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_example.hide" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_output.hide" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_title.hide" version_id="1000070" version_string="1.0.0"><![CDATA[Hide from guests]]></phrase>
+  <phrase title="permission.resourcePermissions_bypass_reply_to_download" version_id="1000070" version_string="1.0.0"><![CDATA[Bypass reply to download]]></phrase>
+  <phrase title="xfh_xfrmrtd_enable_reply_to_download" version_id="1000070" version_string="1.0.0"><![CDATA[Enable reply to download]]></phrase>
+  <phrase title="xfh_xfrmrtd_please_reply_to_download" version_id="1000070" version_string="1.0.0"><![CDATA[Please reply in resource discussion to download]]></phrase>
+</phrases>

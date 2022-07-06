@@ -1,0 +1,6 @@
+{
+    "permission_type": "flag",
+    "interface_group_id": "resourcePermissions",
+    "display_order": 112,
+    "depend_permission_id": ""
+}

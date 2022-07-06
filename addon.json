@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "[XFH] XFRM: Reply to download",
+    "description": "This add-on adds to your forum the ability to restrict the download of resources before the user reply in the discussion",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "XenForo.Help",
+    "dev_url": "https://xenforo.help/",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "FALLBACK": "https://xenforo.help/members/fallback.4/"
+    },
+    "require": [],
+    "icon": "icon.png"
+}

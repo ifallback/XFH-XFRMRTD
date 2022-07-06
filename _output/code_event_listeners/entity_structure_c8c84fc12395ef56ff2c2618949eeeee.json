@@ -1,0 +1,9 @@
+{
+    "event_id": "entity_structure",
+    "execute_order": 10,
+    "callback_class": "XFH\\XFRMRTD\\Listener",
+    "callback_method": "categoryEntityExtend",
+    "active": true,
+    "hint": "XFRM\\Entity\\Category",
+    "description": ""
+}

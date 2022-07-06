@@ -1,0 +1,44 @@
+{
+    "custom_bb_code_desc.hide.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "custom_bb_code_example.hide.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "custom_bb_code_output.hide.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "custom_bb_code_title.hide.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "9b120dc4fd914f388bde796be0c644ca"
+    },
+    "permission.resourcePermissions_bypass_reply_to_download.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "37c8490bc4c65d5f8309d7bc36ab8be1"
+    },
+    "xfh_xfrmrtd_enable_reply_to_download.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "b0182c84ac9072230c0b4442ad2f03d0"
+    },
+    "xfh_xfrmrtd_please_reply_to_download.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "8b3abb46de758bc437b0ca328f79dabf"
+    }
+}
